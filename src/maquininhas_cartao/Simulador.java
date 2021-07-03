@@ -1,3 +1,4 @@
+//versão 03/07/2021
 package maquininhas_cartao;
 
 import java.util.Scanner;
